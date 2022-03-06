@@ -17,7 +17,8 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 80%;
+    padding-left: 100px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +31,18 @@ section{
 .top-banner{
     background-image: url(design1.png);
     background-repeat: no-repeat;
+    padding: 20px;
+}
+.big-dream{
+    display: flex;
+}
+.resume{
+    text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+    border-radius: 10px;
+    color: aliceblue;
+    padding: 10px 40px;
+}
+#bid{
+    color: rgb(135, 224, 1);
 }
