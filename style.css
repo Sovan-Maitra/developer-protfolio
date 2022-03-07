@@ -35,6 +35,10 @@ section{
 }
 .big-dream{
     display: flex;
+    background-image: url(Design4.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
 .resume{
     text-decoration: none;
